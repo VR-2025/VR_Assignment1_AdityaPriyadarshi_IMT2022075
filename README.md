@@ -99,3 +99,6 @@ cd part2
 ### Output Folder Contents
 - `stitched_X.jpg`: Visualization of matched key points between the panorama of images [1...X] and image X+1
 - `panorama.jpg`: The final stitched panorama image.
+
+___
+Further details on the methodology, output images, and analysis are discussed in the [report](https://github.com/VR-2025/VR_Assignment1_AdityaPriyadarshi_IMT2022075/blob/main/report.pdf).
